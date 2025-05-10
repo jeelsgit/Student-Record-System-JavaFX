@@ -4,10 +4,10 @@ A desktop application for managing basic student records, built with JavaFX, Jav
 
 ## Screenshots
 
-![Main Window](https://github.com/jeelsgit/Student-Record-System-JavaFX/blob/master/screenshots/Add_Edit_Dialog.png)
+![Main Window](https://github.com/jeelsgit/Student-Record-System-JavaFX/blob/master/screenshots/Main_Window.png)
 *Main application window displaying student records and search functionality.*
 
-![Add/Edit Dialog](https://github.com/jeelsgit/Student-Record-System-JavaFX/blob/master/screenshots/Main_Window.png)
+![Add/Edit Dialog](https://github.com/jeelsgit/Student-Record-System-JavaFX/blob/master/screenshots/Add_Edit_Dialog.png)
 *Dialog for adding or editing student details with input validation.*
 
 ## Features
